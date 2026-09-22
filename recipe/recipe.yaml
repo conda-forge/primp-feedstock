@@ -84,7 +84,7 @@ about:
   repository: https://github.com/deedy5/primp
   license: MIT
   license_file:
-    - crates/primp/LICENSE-MIT
+    - crates/primp/LICENSE
     - THIRDPARTY.yml
   summary: HTTP client that can impersonate web browsers, mimicking their headers and `TLS/JA3/JA4/HTTP2` fingerprints
 
