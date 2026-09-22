@@ -13,7 +13,7 @@ source:
   sha256: b04a5941bf9c876d011c5defaf5a25be093d56e7270b8da52c9788b9df2a829a
 
 build:
-  number: 1
+  number: 2
   script:
     env:
       PYTHONUTF8: "1"
@@ -91,3 +91,4 @@ about:
 extra:
   recipe-maintainers:
     - rxm7706
+    - pb01ka
