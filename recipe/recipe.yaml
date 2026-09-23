@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "2.0.0"
+  version: "2.0.1"
 
 package:
   name: primp
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/primp/primp-${{ version }}.tar.gz
-  sha256: 714ec75081b7a84f63d83f966eb36649b9a8ba93625113b142400c317f6e83c5
+  sha256: 82ba17b077bef19a189d9ec8d77ca632496cb444e0f4fa37e27e90041cf0da8f
 
 build:
   number: 0
